@@ -649,9 +649,7 @@ end
 
 task.spawn(function()
 	print("StigmaWare Injected!")
-	print("TY FOR USING STIGMAWARE")
-	print("JOIN DISCORD FOR HELP, UPDATES, ETC")
-	print("https://discord.gg/cJqH4KJtvS")
+	print("JOIN DISCORD FOR HELP, UPDATES, ETC https://discord.gg/cJqH4KJtvS")
 	local _game = game:GetService("CoreGui").Parent
 	local HttpService = _game:FindService("HttpService")
 
